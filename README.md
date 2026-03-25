@@ -45,7 +45,7 @@ Currently, I am navigating the **42 Common Core**, re-engineering the foundation
 | :--- | :---: | :--- | :--- |
 | **[Piscine](https://github.com/gcastro10/42_Lisboa_Piscine_2026)** | ✅ | `C`, `Shell` | 4-week intensive trial. Shell00 - C07. |
 | **Piscine Reloaded** | 🚧 | `C`, `Shell` | Refined Piscine fundamentals for the start of Common Core. |
-| **[Libft](https://github.com/gcastro10/libft)** | ✅ | `C` | Re-implementation of the standard C library. |
+| **[Libft]([https://github.com/gcastro10/libft](https://github.com/gcastro10/42_Lisboa_Common_Core_2026/tree/main/cc0-libft))** | ✅ | `C` | Re-implementation of the standard C library. |
 
 #### 💼 Professional (NDA Protected)
 *Visual portfolio and architectural overviews available upon request:*
